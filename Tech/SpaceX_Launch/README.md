@@ -11,6 +11,7 @@ Predicting the success of SpaceX rocket launches using machine learning. This pr
 
 ## 🔧 Technologies Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- SQL
 - Folium for interactive maps
 - Dash for interactive dashboard generation
 - Jupyter Notebooks
